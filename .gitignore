@@ -1,0 +1,8 @@
+# Dataset must be downloaded from Kaggle, not committed to Git
+/data/*.csv
+/creditcard.csv
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+.env
+kaggle.json
